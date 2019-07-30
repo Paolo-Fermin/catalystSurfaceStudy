@@ -9,6 +9,7 @@ catalyst
     (
         "<system>/scripts/uz.py"
 	"<system>/scripts/delT.py"
+	"<system>/scripts/nut.py"
     );
 
     // Calculate a few iterations before starting processing
