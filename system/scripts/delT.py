@@ -101,7 +101,7 @@ coprocessor = CreateCoProcessor()
 
 #--------------------------------------------------------------
 # Enable Live-Visualizaton with ParaView and the update frequency
-coprocessor.EnableLiveVisualization(False, 1)
+coprocessor.EnableLiveVisualization(True, 1)
 
 # ---------------------- Data Selection method ----------------------
 
