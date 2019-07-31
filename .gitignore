@@ -1,11 +1,8 @@
-0*
-constant
+0
 insitu
 processor*
 transforms
 log.*
 *.ipynb
 *.foam
-cleanCase
-runCase
 *.png
